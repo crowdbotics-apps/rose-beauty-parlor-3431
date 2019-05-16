@@ -1,0 +1,3 @@
+rootProject.name = 'rose_beauty_parlor_3431'
+
+include ':app'

@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT rose_beauty_parlor_3431.wsgi:application
